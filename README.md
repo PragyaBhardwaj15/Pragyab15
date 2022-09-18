@@ -1,7 +1,6 @@
 ## 👋 
 
-## Hi,
-I’m @Pragya Bhardwaj
+## Hi,I’m @Pragya Bhardwaj
 
 - 👀 I’m interested in working with datasets and learning latest technologies
 
