@@ -18,7 +18,7 @@ Python, NLP, Machine Learning,Deep Learning, Computer vision, Data Analysis, Sta
 
 ## 🔗 Connect with me:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pragya-Bhardwaj-128083213/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pragyabhardwaj15/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pragya__15)
 
 
