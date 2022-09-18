@@ -1,5 +1,7 @@
 ##- 👋 
+
 #Hi, I’m @Pragya Bhardwaj
+
 - 👀 I’m interested in working with datasets and learning latest technologies
 
 ![image](https://user-images.githubusercontent.com/101381723/190900164-a5755a10-0f96-49fb-b797-4ffaee8d7a04.png)
@@ -12,9 +14,11 @@
 
 #Skills🛠⚙
 
+Python, NLP, Machine Learning,Deep Learning, Computer vision, Data Analysis, Statistics
 
 
-- 📫 How to reach me @
+#Languages and Tools🛠
+
 
 <!---
 Pragyab15/Pragyab15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
