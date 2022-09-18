@@ -1,6 +1,6 @@
-##👋 
+## 👋 
 
-##Hi,
+## Hi,
 I’m @Pragya Bhardwaj
 
 - 👀 I’m interested in working with datasets and learning latest technologies
@@ -13,7 +13,7 @@ I’m @Pragya Bhardwaj
 
    ![image](https://user-images.githubusercontent.com/101381723/190900219-982aa3bc-22b9-453a-80bd-e54a1522f487.png)
 
-##Skills🛠⚙
+## Skills🛠⚙
 
 Python, NLP, Machine Learning,Deep Learning, Computer vision, Data Analysis, Statistics
 
@@ -25,7 +25,7 @@ Python, NLP, Machine Learning,Deep Learning, Computer vision, Data Analysis, Sta
 
 
  
-##Languages and Tools:🛠
+## Languages and Tools:🛠
 
  
  ![image](https://user-images.githubusercontent.com/101402562/189333101-552cdea5-479e-49e3-82c6-129df758360b.png) 
